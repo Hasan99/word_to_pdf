@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordToPDFTest", "WordToPDFTest.csproj", "{053C5976-BAE8-4C8C-9F2C-C9C9313CB09C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocXToPdfConverter", "..\DocXToPdfConverter\DocXToPdfConverter.csproj", "{BE978ACA-4A30-4585-8475-23DF2C36B414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{053C5976-BAE8-4C8C-9F2C-C9C9313CB09C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{053C5976-BAE8-4C8C-9F2C-C9C9313CB09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{053C5976-BAE8-4C8C-9F2C-C9C9313CB09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{053C5976-BAE8-4C8C-9F2C-C9C9313CB09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE978ACA-4A30-4585-8475-23DF2C36B414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE978ACA-4A30-4585-8475-23DF2C36B414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE978ACA-4A30-4585-8475-23DF2C36B414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE978ACA-4A30-4585-8475-23DF2C36B414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

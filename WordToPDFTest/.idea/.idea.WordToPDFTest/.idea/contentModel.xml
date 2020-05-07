@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Hasan\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Hasan\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_WordToPDFTest.174462997.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Documentation" t="Include">
+        <e p="Readme.md" t="Include" />
+      </e>
+      <e p="DocXToPdfConverter.csproj" t="IncludeRecursive" />
+      <e p="DocXToPdfHandlers" t="Include">
+        <e p="ConvertWithLibreOffice.cs" t="Include" />
+        <e p="DocXHandler.cs" t="Include" />
+        <e p="HtmlHandler.cs" t="Include" />
+        <e p="ImageHandler.cs" t="Include" />
+        <e p="StreamHandler.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="DocXToPdfConverter.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="OpenXmlPowerTools" t="Include">
+        <e p="ChartUpdater.cs" t="Include" />
+        <e p="ColorParser.cs" t="Include" />
+        <e p="Comparer" t="Include">
+          <e p="ComparisonUnit.cs" t="Include" />
+          <e p="ComparisonUnitAtom.cs" t="Include" />
+          <e p="ComparisonUnitGroup.cs" t="Include" />
+          <e p="ComparisonUnitGroupType.cs" t="Include" />
+          <e p="ComparisonUnitWord.cs" t="Include" />
+          <e p="CorrelatedSequence.cs" t="Include" />
+          <e p="CorrelationStatus.cs" t="Include" />
+          <e p="PartSHA1HashAnnotation.cs" t="Include" />
+          <e p="WithHierarchicalGroupingKey.cs" t="Include" />
+          <e p="WmlComparer.Internal.Methods.ComparisonUnits.cs" t="Include" />
+          <e p="WmlComparer.Private.Fields.cs" t="Include" />
+          <e p="WmlComparer.Private.Methods.Hashing.cs" t="Include" />
+          <e p="WmlComparer.Private.Methods.Lcs.cs" t="Include" />
+          <e p="WmlComparer.Private.Methods.PreProcessMarkup.cs" t="Include" />
+          <e p="WmlComparer.Private.Methods.ProduceDocument.cs" t="Include" />
+          <e p="WmlComparer.Private.Methods.Util.cs" t="Include" />
+          <e p="WmlComparer.Private.NestedTypes.cs" t="Include" />
+          <e p="WmlComparer.Public.Methods.Compare.cs" t="Include" />
+          <e p="WmlComparer.Public.Methods.Consolidate.cs" t="Include" />
+          <e p="WmlComparer.Public.Methods.GetRevisions.cs" t="Include" />
+          <e p="WmlComparer.Public.NestedTypes.cs" t="Include" />
+          <e p="WmlComparerConsolidateSettings.cs" t="Include" />
+          <e p="WmlComparerExtensions.cs" t="Include" />
+          <e p="WmlComparerSettings.cs" t="Include" />
+          <e p="WmlComparerUtil.cs" t="Include" />
+          <e p="WmlRevisedDocumentInfo.cs" t="Include" />
+        </e>
+        <e p="DocumentAssembler.cs" t="Include" />
+        <e p="DocumentBuilder.cs" t="Include" />
+        <e p="ExcelFormula.cs" t="Include" />
+        <e p="FieldRetriever.cs" t="Include" />
+        <e p="FormattingAssembler.cs" t="Include" />
+        <e p="GetListItemText_Default.cs" t="Include" />
+        <e p="GetListItemText_fr_FR.cs" t="Include" />
+        <e p="GetListItemText_ru_RU.cs" t="Include" />
+        <e p="GetListItemText_sv_SE.cs" t="Include" />
+        <e p="GetListItemText_tr_TR.cs" t="Include" />
+        <e p="GetListItemText_zh_CN.cs" t="Include" />
+        <e p="HtmlToWmlConverter.cs" t="Include" />
+        <e p="HtmlToWmlConverterCore.cs" t="Include" />
+        <e p="HtmlToWmlCssApplier.cs" t="Include" />
+        <e p="HtmlToWmlCssParser.cs" t="Include" />
+        <e p="ListItemRetriever.cs" t="Include" />
+        <e p="MarkupSimplifier.cs" t="Include" />
+        <e p="MetricsGetter.cs" t="Include" />
+        <e p="OpenXmlRegex.cs" t="Include" />
+        <e p="OxPtHelpers.cs" t="Include" />
+        <e p="PegBase.cs" t="Include" />
+        <e p="PowerToolsBlock.cs" t="Include" />
+        <e p="PowerToolsBlockExtensions.cs" t="Include" />
+        <e p="PresentationBuilder.cs" t="Include" />
+        <e p="Previous" t="Include">
+          <e p="WmlComparer.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="PtOpenXmlDocument.cs" t="Include" />
+        <e p="PtOpenXmlUtil.cs" t="Include" />
+        <e p="PtUtil.cs" t="Include" />
+        <e p="ReferenceAdder.cs" t="Include" />
+        <e p="RevisionAccepter.cs" t="Include" />
+        <e p="RevisionProcessor.cs" t="Include" />
+        <e p="ScalarTypes.cs" t="Include" />
+        <e p="SmlCellFormatter.cs" t="Include" />
+        <e p="SmlDataRetriever.cs" t="Include" />
+        <e p="SmlToHtmlConverter.cs" t="Include" />
+        <e p="SpreadsheetDocumentManager.cs" t="Include" />
+        <e p="SpreadsheetWriter.cs" t="Include" />
+        <e p="SSFormula.cs" t="Include" />
+        <e p="StronglyTypedBlock.cs" t="Include" />
+        <e p="TestUtil.cs" t="Include" />
+        <e p="TextReplacer.cs" t="Include" />
+        <e p="UnicodeMapper.cs" t="Include" />
+        <e p="WmlDocument.cs" t="Include" />
+        <e p="WmlToHtmlConverter.cs" t="Include" />
+        <e p="WmlToXml.cs" t="Include" />
+        <e p="WorksheetAccessor.cs" t="Include" />
+        <e p="XlsxTables.cs" t="Include" />
+      </e>
+      <e p="Placeholders.cs" t="Include" />
+      <e p="ReportGenerator.cs" t="Include" />
+    </e>
+    <e p="C:\Users\Hasan\Desktop\word_to_pdf\WordToPDFTest" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="WordToPDFTest.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="WordToPDFTest.csproj" t="IncludeRecursive" />
+      <e p="WordToPDFTest.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

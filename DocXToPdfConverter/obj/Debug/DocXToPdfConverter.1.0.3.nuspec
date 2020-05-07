@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DocXToPdfConverter</id>
+    <version>1.0.3</version>
+    <authors>Dr. Martin Weihrauch</authors>
+    <owners>Dr. Martin Weihrauch</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <projectUrl>https://github.com/smartinmedia/Net-Core-DocX-HTML-To-PDF-Converter</projectUrl>
+    <description>Report-From-DocX-HTML-To-PDF-Converter - Create custom reports based on Word docx or HTML documents and convert to PDF with .NET CORE</description>
+    <copyright>(c) Smart In Media</copyright>
+    <tags>Docx, PDF, HTML, converter</tags>
+    <repository url="https://github.com/smartinmedia/Net-Core-DocX-HTML-To-PDF-Converter" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1">
+        <dependency id="DocumentFormat.OpenXml" version="2.10.0-beta0002" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="4.5.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Hasan\RiderProjects\DocXToPdfConverter\bin\Debug\netcoreapp2.1\DocXToPdfConverter.dll" target="lib\netcoreapp2.1\DocXToPdfConverter.dll" />
+  </files>
+</package>

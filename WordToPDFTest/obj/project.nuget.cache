@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "U34tg/jsLxFEUYICDaT1CW7UN+pw4coSrtwC0Tg7qhpzEDm8aeWvDL6b8BayE4oaR51vHOGGh9gZCm3nH39uRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hasan\\RiderProjects\\WordToPDFTest\\WordToPDFTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hasan\\.nuget\\packages\\documentformat.openxml\\2.10.0-beta0002\\documentformat.openxml.2.10.0-beta0002.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\microsoft.win32.systemevents\\4.5.0\\microsoft.win32.systemevents.4.5.0.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\system.drawing.common\\4.5.1\\system.drawing.common.4.5.1.nupkg.sha512",
+    "C:\\Users\\Hasan\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
