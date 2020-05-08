@@ -9,7 +9,7 @@ namespace WordToPDFTest
         static void Main(string[] args)
         {
             string locationOfLibreOfficeSoffice =
-                @"‪C:\Users\Hasan\Downloads\Programs\LibreOfficePortable_6.4.3_MultilingualStandard.paf.exe";
+                @"C:\Users\Hasan\Downloads\Programs\LibreOfficePortable\App\libreoffice\program\soffice.exe";
 
             var test = new ReportGenerator(locationOfLibreOfficeSoffice);
 

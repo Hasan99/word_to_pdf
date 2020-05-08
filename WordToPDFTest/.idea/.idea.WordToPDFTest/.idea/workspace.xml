@@ -13,8 +13,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Program.cs" />
         <option value="$PROJECT_DIR$/WordToPDFTest.csproj" />
+        <option value="$PROJECT_DIR$/Program.cs" />
       </list>
     </option>
   </component>
@@ -69,26 +69,27 @@
       <workItem from="1588846475397" duration="3747000" />
       <workItem from="1588870748819" duration="576000" />
       <workItem from="1588872710113" duration="21000" />
-      <workItem from="1588873103923" duration="263000" />
+      <workItem from="1588873103923" duration="631000" />
+      <workItem from="1588875668693" duration="1580000" />
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1588871341382">
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1588879954837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588871341382" />
-    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1588871341382">
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588879954837" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1588879954837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588871341382" />
-    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1588871341381">
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588879954837" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1588879954836">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588871341381" />
-    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1588871341382">
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588879954836" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1588879954837">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588871341382" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588879954837" />
   </component>
 </project>

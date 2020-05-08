@@ -7,3 +7,12 @@ C:\Users\Hasan\RiderProjects\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPd
 C:\Users\Hasan\RiderProjects\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPdfConverter.AssemblyInfo.cs
 C:\Users\Hasan\RiderProjects\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPdfConverter.dll
 C:\Users\Hasan\RiderProjects\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPdfConverter.pdb
+C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter\bin\Debug\netcoreapp2.1\DocXToPdfConverter.deps.json
+C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter\bin\Debug\netcoreapp2.1\DocXToPdfConverter.dll
+C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter\bin\Debug\netcoreapp2.1\DocXToPdfConverter.pdb
+C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPdfConverter.csprojAssemblyReference.cache
+C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPdfConverter.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPdfConverter.AssemblyInfoInputs.cache
+C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPdfConverter.AssemblyInfo.cs
+C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPdfConverter.dll
+C:\Users\Hasan\Desktop\word_to_pdf\DocXToPdfConverter\obj\Debug\netcoreapp2.1\DocXToPdfConverter.pdb
